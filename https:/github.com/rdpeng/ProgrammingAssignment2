@@ -30,3 +30,4 @@ cacheSolve <- function(x, ...) {
   data <- x$get()
   s <- solve(data, ...)
 }
+ 
